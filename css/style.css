@@ -1,0 +1,116 @@
+body{
+    font-family: Helvetica, sans-serif;
+}
+
+.inline-block{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.logo{
+    width: 30%;
+    padding: 1%;
+    text-align:center;
+      
+}
+
+.name{
+    padding-left: 30px;
+}
+nav{
+    width:80%;
+    padding:1%
+}
+
+ul.top{
+    width: 50%;
+    margin-left: auto;  
+}
+
+.bio{
+   text-align:center;
+   
+}
+
+.heroImg{
+    height: 550px;
+    padding: 25px;
+}
+
+img.headshot{
+    height: 300px;
+    width: 250px;
+    padding-left: 55px;
+    
+}
+
+.content{
+    width:400px;
+    margin: 0 auto;
+   
+}
+
+.button{
+    background-color: pink;
+    border: none;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 120px;
+}
+
+.images{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;  
+
+}
+
+img.ux{
+    height: 280px;
+    width: 450px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    
+}
+
+img.painting{
+    height: 280px;
+    width: 450px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    
+}
+
+img.graphicdesign{
+    height: 280px;
+    width: 450px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+img.about{
+    height:280px;
+    width: 450px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+
+.footer{
+    background-color: pink ;
+    text-align:left;
+    height: 115px;
+    padding-top: 10px;
+    padding-left: 10px; 
+}
+
+ul.bottom{
+    margin-left: -40px;
+}
+
+.footerli{
+    display: inline-block;
+    padding-right: 10px;  
+}
