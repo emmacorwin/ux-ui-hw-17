@@ -6,6 +6,8 @@ body{
 .inline-block{
     display: inline-block;
     padding-right: 10px;
+    color:black;
+    
 }
 
 .logo{
@@ -23,9 +25,15 @@ nav{
     padding:1%
 }
 
+a:link{
+    text-decoration: none;
+    color:black;
+}
+
 ul.top{
-    width: 50%;
-    margin-left: auto;  
+    width: 100%;
+    margin-left:auto; 
+    text-align:end; 
 }
 
 .bio{
