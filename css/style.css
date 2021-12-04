@@ -122,4 +122,5 @@ ul.bottom{
 .footerli{
     display: inline-block;
     padding-right: 10px;  
+    color: black;
 }
